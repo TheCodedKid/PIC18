@@ -1,6 +1,6 @@
 
 # **PIC18 Circuits**  
-![GitHub Workflow Status](https://img.shields.io/badge/PIC_18_Breakout-notpassing-red)
+![GitHub Workflow Status](https://img.shields.io/badge/PIC_18_Breakout-not_passing-red)
 ![GitHub Workflow Status](https://img.shields.io/badge/Display-passing-brightgreen)
 
 ## **PIC18 Breakout Board**
