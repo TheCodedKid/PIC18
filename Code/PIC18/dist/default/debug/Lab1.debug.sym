@@ -1,0 +1,26 @@
+__S0 0 0 ABS 0
+__S1 0 0 ABS 0
+__Hudata_acs 2C 0 ABS 0
+__Ludata_acs 2C 0 ABS 0
+__Hcode 2C 0 ABS 0
+__Lcode 2C 0 ABS 0
+__Hdata 2C 0 ABS 0
+__Ldata 2C 0 ABS 0
+__Hudata_bank0 2C 0 ABS 0
+__Ludata_bank0 2C 0 ABS 0
+__Hedata 16 0 EEDATA 3
+__Ledata 0 0 EEDATA 3
+__Hudata 2C 0 ABS 0
+__Ludata 2C 0 ABS 0
+__Hudata_bank1 2C 0 ABS 0
+__Ludata_bank1 2C 0 ABS 0
+__Hspace_0 2C 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hspace_3 16 0 ABS 0
+__Lspace_3 0 0 ABS 0
+%segments
+%locals
+build/default/debug/24BitAdd.o
+/Applications/microchip/xc8/v2.20/pic/include/proc/pic18f4321.inc

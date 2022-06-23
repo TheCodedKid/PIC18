@@ -1,0 +1,21 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  2Ch - 3Fh
+  
+ dist/default/debug/Lab1.debug.hex ranges:
+  0h - 2Bh
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  X = Find & delete opcode
+  1 = dist/default/debug/Lab1.debug.hex
+00000000: 11111111111111111111111111111111111111111111--------------------
