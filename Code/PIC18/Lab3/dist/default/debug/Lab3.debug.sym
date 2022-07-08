@@ -1,0 +1,68 @@
+__S0 2000 0 ABS 0
+__S1 0 0 ABS 0
+__Hudata_acs 4 0 ABS 0
+__Ludata_acs 4 0 ABS 0
+__Hcode 4 0 ABS 0
+__Lcode 4 0 ABS 0
+__Hdata 4 0 ABS 0
+__Ldata 4 0 ABS 0
+__Hudata_bank0 4 0 ABS 0
+__Ludata_bank0 4 0 ABS 0
+__Hedata 2 0 EEDATA 3
+__Ledata 0 0 EEDATA 3
+__Hudata 4 0 ABS 0
+__Ludata 4 0 ABS 0
+__Hudata_bank1 4 0 ABS 0
+__Ludata_bank1 4 0 ABS 0
+__Hspace_0 2000 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hspace_3 2 0 ABS 0
+__Lspace_3 0 0 ABS 0
+%segments
+code 1FB0 1FFF CODE 1FB0 0
+%locals
+build/default/debug/CountandDivide.o
+/Applications/microchip/xc8/v2.20/pic/include/proc/pic18f4321.inc
+CountandDivide.s
+15 1FB0 0 CODE 0
+17 1FB0 0 CODE 0
+18 1FB4 0 CODE 0
+19 1FB6 0 CODE 0
+20 1FB8 0 CODE 0
+21 1FBA 0 CODE 0
+22 1FBC 0 CODE 0
+23 1FBE 0 CODE 0
+24 1FC0 0 CODE 0
+25 1FC2 0 CODE 0
+26 1FC4 0 CODE 0
+27 1FC6 0 CODE 0
+28 1FC8 0 CODE 0
+29 1FCA 0 CODE 0
+30 1FCC 0 CODE 0
+31 1FCE 0 CODE 0
+32 1FD0 0 CODE 0
+33 1FD2 0 CODE 0
+35 1FD4 0 CODE 0
+36 1FD6 0 CODE 0
+38 1FD8 0 CODE 0
+40 1FDC 0 CODE 0
+41 1FDC 0 CODE 0
+42 1FE0 0 CODE 0
+43 1FE2 0 CODE 0
+46 1FE4 0 CODE 0
+47 1FE6 0 CODE 0
+49 1FE8 0 CODE 0
+50 1FEC 0 CODE 0
+51 1FEE 0 CODE 0
+52 1FF0 0 CODE 0
+55 1FF2 0 CODE 0
+56 1FF2 0 CODE 0
+57 1FF4 0 CODE 0
+58 1FF6 0 CODE 0
+60 1FF8 0 CODE 0
+61 1FF8 0 CODE 0
+62 1FFA 0 CODE 0
+63 1FFC 0 CODE 0
+65 1FFE 0 CODE 0
