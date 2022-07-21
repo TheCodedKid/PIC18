@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/Lab9.debug.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>7526</used>
+      <free>666</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>512</length>
+      <used>176</used>
+      <free>336</free>
+    </memory>
+  </executable>
+</project>
